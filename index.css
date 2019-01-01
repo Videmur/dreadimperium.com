@@ -5,8 +5,18 @@ body
     background-repeat: no-repeat;
     background-size: auto 100vh;
     background-color: rgb(0, 0, 0);
-    margin: 0;
     overflow: hidden;
+    margin: 0;
+}
+
+#stars
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
 }
 
 .star
@@ -21,14 +31,20 @@ body
 .intro
 {
     position: absolute;
-    top: 40%;
-    left: 40%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     z-index: 1;
     animation: intro 6s ease-out 1s;
     color: rgb(75, 213, 238);
     font-weight: 400;
     font-size: 300%;
     opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    resize: both;
 }
 
 @keyframes intro
@@ -58,8 +74,8 @@ body
 .logo
 {
     position: absolute;
-    top: 40%;
-    left: 47%;
+    top: calc(50% - 3.34em);
+    left: calc(50% - 9em);
     z-index: 1;
     margin: auto;
     animation: logo 9s ease-out 9s;
@@ -116,7 +132,7 @@ body
     height: 50em;
     width: 18em;
     bottom: 0;
-    left: 53%;
+    left: 50%;
 }
 
     #board:after
