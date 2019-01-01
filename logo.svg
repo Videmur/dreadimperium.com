@@ -1,17 +1,155 @@
-<svg viewBox="0 0 270 480" preserveAspectRatio="xMidYMid meet" width="270" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-    <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
-    <rect height="480" width="45" y="0" x="90" stroke-width="0" stroke-opacity="0" stroke="#000000" fill="#ff0000" id="svg_1" />
-    <rect height="480" width="45" y="0" x="180" stroke-width="0" stroke-opacity="0" stroke="#000000" fill="#ff0000" id="svg_2" />
-    <rect height="480" width="45" y="0" x="135" stroke-width="0" stroke-opacity="0" stroke="#000000" fill="#000000" id="svg_3" />
-    <circle r="90" cy="240" cx="157.5" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_5" />
-    <circle r="85" cy="240" cx="157.5" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#000000" id="svg_6" />
-    <path d="m113.648987,182.5l1.882545,8.808197l8.766449,1.801163l-8.766449,1.801163l-1.882545,8.387466l-1.882568,-8.387466l-8.766418,-1.801163l8.766418,-1.801163l1.882568,-8.387466l1.882545,8.387466" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_9" />
-    <path d="m201.648987,182.5l1.882538,8.808197l8.766449,1.801163l-8.766449,1.801163l-1.882538,8.387466l-1.882568,-8.387466l-8.766418,-1.801163l8.766418,-1.801163l1.882568,-8.387466l1.882538,8.387466" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_10" />
-    <path d="m113.5,268.351013l1.882538,8.808197l8.766449,1.801147l-8.766449,1.801178l-1.882538,8.387451l-1.882568,-8.387451l-8.766418,-1.801178l8.766418,-1.801147l1.882568,-8.387482l1.882538,8.387482" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_7" />
-    <path d="m201.5,268.351013l1.882538,8.808197l8.766449,1.801147l-8.766449,1.801178l-1.882538,8.387451l-1.882568,-8.387451l-8.766418,-1.801178l8.766418,-1.801147l1.882568,-8.387482l1.882538,8.387482" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_8" />
-    <path d="m92.5,224.851013l1.882538,8.808197l8.766449,1.801147l-8.766449,1.801178l-1.882538,8.387451l-1.882568,-8.387451l-8.766418,-1.801178l8.766418,-1.801147l1.882568,-8.387482l1.882538,8.387482" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_11" />
-    <path d="m225,224.851013l1.882538,8.808197l8.766449,1.801147l-8.766449,1.801178l-1.882538,8.387451l-1.882568,-8.387451l-8.766418,-1.801178l8.766418,-1.801147l1.882568,-8.387482l1.882538,8.387482" stroke-width="0" stroke-dasharray="null" stroke="#000000" fill="#ffffff" id="svg_12" />
-    <polygon strokeWidth="0" strokecolor="#000000" orient="point" r2="15.995756" r="47.987267" point="7" shape="star" cy="400" cx="335.5" points="157.5,192.513 164.44,222.592 195.018,208.699 173.095,232.314 204.284,245.069 170.006,244.437 178.321,274.235 157.5,249.832 136.679,274.235 144.994,244.437 110.716,245.069 141.905,232.314 119.982,208.699 150.56,222.592 157.5,192.513 164.44,222.592" stroke-width="0" stroke="#000000" fill="#ffffff" id="svg_21" />
-    <polygon edge="48.845562" sides="3" strokeWidth="0" strokecolor="#000000" orient="x" shape="regularPoly" cy="104" cx="338.5" points="169.201,164.5 146.899,178.923 146.899,150.077 169.201,164.5" transform="rotate(90 158.05 164.5)" stroke-width="0" stroke="#000000" fill="#ffffff" id="svg_22" />
-    <polygon edge="48.845562" sides="3" strokeWidth="0" strokecolor="#000000" orient="x" shape="regularPoly" cy="104" cx="338.5" points="169.151,314.75 146.849,329.173 146.849,300.327 169.151,314.75" transform="rotate(-90 158 314.75)" stroke-width="0" stroke="#000000" fill="#ffffff" id="svg_26" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 180 480"
+   preserveAspectRatio="xMidYMid meet"
+   width="180"
+   height="480"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="67.5"
+     inkscape:cy="240"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+  <rect
+     height="480"
+     width="45"
+     y="5e-007"
+     x="22.5"
+     id="svg_1"
+     style="fill:#ff0000;stroke:#000000;stroke-width:0;stroke-opacity:0" />
+  <rect
+     height="480"
+     width="45"
+     y="5e-007"
+     x="112.5"
+     id="svg_2"
+     style="fill:#ff0000;stroke:#000000;stroke-width:0;stroke-opacity:0" />
+  <rect
+     height="480"
+     width="45"
+     y="5e-007"
+     x="67.5"
+     id="svg_3"
+     style="fill:#000000;stroke:#000000;stroke-width:0;stroke-opacity:0" />
+  <circle
+     r="90"
+     cy="240"
+     cx="90"
+     id="svg_5"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <circle
+     r="85"
+     cy="240"
+     cx="90"
+     id="svg_6"
+     style="fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <path
+     d="m 46.14899,182.5 1.882541,8.8082 8.76645,1.80116 -8.76645,1.80116 -1.882541,8.38747 -1.88257,-8.38747 -8.76642,-1.80116 8.76642,-1.80116 1.88257,-8.38747 1.882541,8.38747"
+     id="svg_9"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <path
+     d="m 134.14899,182.5 1.88254,8.8082 8.76644,1.80116 -8.76644,1.80116 -1.88254,8.38747 -1.88257,-8.38747 -8.76642,-1.80116 8.76642,-1.80116 1.88257,-8.38747 1.88254,8.38747"
+     id="svg_10"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <path
+     d="m 46,268.35101 1.882541,8.8082 8.76645,1.80115 -8.76645,1.80118 L 46,289.14899 l -1.88257,-8.38745 -8.76642,-1.80118 8.76642,-1.80115 1.88257,-8.38748 1.882541,8.38748"
+     id="svg_7"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <path
+     d="m 134,268.35101 1.88254,8.8082 8.76645,1.80115 -8.76645,1.80118 -1.88254,8.38745 -1.88257,-8.38745 -8.76642,-1.80118 8.76642,-1.80115 1.88257,-8.38748 1.88254,8.38748"
+     id="svg_8"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <path
+     d="m 25,224.85101 1.882538,8.8082 8.766452,1.80115 -8.766452,1.80117 L 25,245.64899 23.117432,237.26153 14.351014,235.46036 23.117432,233.65921 25,225.27173 l 1.882538,8.38748"
+     id="svg_11"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <path
+     d="m 157.5,224.85101 1.88254,8.8082 8.76645,1.80115 -8.76645,1.80117 -1.88254,8.38746 -1.88257,-8.38746 -8.76642,-1.80117 8.76642,-1.80115 1.88257,-8.38748 1.88254,8.38748"
+     id="svg_12"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+  <polygon
+     strokeWidth="0"
+     strokecolor="#000000"
+     orient="point"
+     r2="15.995756"
+     r="47.987267"
+     point="7"
+     shape="star"
+     cy="400"
+     cx="335.5"
+     points="195.018,208.699 173.095,232.314 204.284,245.069 170.006,244.437 178.321,274.235 157.5,249.832 136.679,274.235 144.994,244.437 110.716,245.069 141.905,232.314 119.982,208.699 150.56,222.592 157.5,192.513 164.44,222.592 157.5,192.513 164.44,222.592 "
+     id="svg_21"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0"
+     transform="translate(-67.5)" />
+  <polygon
+     edge="48.845562"
+     sides="3"
+     strokeWidth="0"
+     strokecolor="#000000"
+     orient="x"
+     shape="regularPoly"
+     cy="104"
+     cx="338.5"
+     points="146.899,150.077 169.201,164.5 146.899,178.923 "
+     transform="rotate(90,124.3,130.75)"
+     id="svg_22"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0" />
+  <polygon
+     edge="48.845562"
+     sides="3"
+     strokeWidth="0"
+     strokecolor="#000000"
+     orient="x"
+     shape="regularPoly"
+     cy="104"
+     cx="338.5"
+     points="146.849,300.327 169.151,314.75 146.849,329.173 "
+     transform="rotate(-90,124.25,348.5)"
+     id="svg_26"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0" />
 </svg>
